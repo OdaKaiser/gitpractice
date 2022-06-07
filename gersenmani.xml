@@ -1,0 +1,6 @@
+<manifest ... >
+    <application ... >
+        <activity android:name="com.example.germanapp.exp" ... >
+        </activity>
+    </application>
+</manifest>
